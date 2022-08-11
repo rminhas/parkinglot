@@ -25,7 +25,7 @@ end
 # ╔═╡ 69bba7ea-189e-4036-a5ba-0235dfa2f073
 md"""
 # Impact of Policies on Tenure
-This is a simplistic simulation of the impact of attributes like attrition rate, forced LE ratings, hiring cliff, market pressure etc. on the distribution of tenure at Amazon.
+This is a simplistic simulation of the impact of attributes like attrition rate, forced LE ratings, hiring cliff, market pressure etc. on the distribution of tenure at a firm.
 """
 
 # ╔═╡ 3a10f1f7-63d8-4188-8d19-659fa052cfa6
